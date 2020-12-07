@@ -4,7 +4,7 @@
 
 Check the comments on `index.html` file.
 
-You must interpolate some data and use some bindings to complete the exercise.
+Fill the app.js file with needed data.
 
 
 
